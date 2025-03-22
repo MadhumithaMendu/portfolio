@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Xampp/htdocs/phpprogramms"
+		},
+		{
+			"path": "../../Documents/testcode"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "phpprogramms"
+	}
+}
